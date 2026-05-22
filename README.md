@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme = """# Nighttime Yard Traffic Forecasting Using Bi-LSTM
+# Nighttime Yard Traffic Forecasting Using Bi-LSTM
 
 ## Project Overview
 
